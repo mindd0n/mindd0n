@@ -5,7 +5,7 @@
 
 <div align="left">
   
-## 🛠 **Tool**
+#### 🛠 **Tool**
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff"/>
 
 <br><br>
+  
+#### 👻 My GitHub stats
 
 ![mindd0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindd0n&theme=solarized-light&show_icons=true)
   
