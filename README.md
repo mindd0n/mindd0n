@@ -19,11 +19,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>  
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff"/>
-  
-<br><br>
-  
-## 📝 My Assignment
-[My Assignment](https://github.com/mindd0n/assignment)
 
 <br><br>
   
