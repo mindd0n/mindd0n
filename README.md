@@ -22,7 +22,7 @@
 
 <br><br>
   
-#### 👻 My GitHub stats
+### 👻 My GitHub stats
 ![mindd0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindd0n&theme=solarized-light&show_icons=true)
   
   
